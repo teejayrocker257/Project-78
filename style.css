@@ -1,0 +1,17 @@
+#body
+  {
+    text-align: center;
+  }
+p
+  {
+    font-size: 50px;
+  }
+#allimages
+  {
+    width: 500px;
+    height: 700px;
+  }
+#Next
+  {
+    size: 100px;
+  }
